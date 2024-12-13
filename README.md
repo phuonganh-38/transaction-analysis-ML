@@ -52,9 +52,9 @@ These are the details of the dataset:
 - Isolation Forest
 
 ## **Version Used**
-pandas==2.1.1
-scikit-learn==1.2.2
-altair==4.2.2
+- pandas==2.1.1
+- scikit-learn==1.2.2
+- altair==4.2.2
 
 
 ## Authors
