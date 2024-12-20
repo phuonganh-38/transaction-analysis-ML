@@ -20,9 +20,9 @@ This project utilizes transactional data from Nexus Bank to implement machine le
 1. Open notebooks from the Drive folder [here](https://drive.google.com/drive/folders/1D4SKWBTjLtdHza9CZqfakqO8b1Siifq0?usp=sharing) in Google Colab.
 2. Mount Google Drive by running the code block:
    
-   `from google.colab import drive
+   `from google.colab import drive`
 
-   drive.mount('/content/drive')`
+   `drive.mount('/content/drive')`
    
 4. Run the code below to install requirements
    
