@@ -21,9 +21,10 @@ This project utilizes transactional data from Nexus Bank to implement machine le
 2. Mount Google Drive by running the code block:
    
    `from google.colab import drive
+
    drive.mount('/content/drive')`
    
-3. Run the code below to install requirements
+4. Run the code below to install requirements
    
    `! pip install -r https://github.com/phuonganh-38/transaction-analysis-ML/blob/main/requirements.txt`
 
