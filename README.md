@@ -60,6 +60,7 @@ These are the details of the dataset:
 
 ## Authors
 - **Phuong Anh Pham** - *Provided README*
+
 See the list of [contributors](CONTRIBUTORS.md) who participated in this project.
 
 ## **Acknowledgements**
